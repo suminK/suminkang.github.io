@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Sumin's Homepage"
 title_separator          : "-"
 name                     : &name "Sumin Kang"
 description              : &description "Ph.D. Student in Industrial and Systems Engineering (Operations Research concentration) at Virginia Tech"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sumin Kang"
   avatar           : "profile.jpg"
-  bio              : "PhD Student | Operations Research | Virginia Tech"
+  bio              : "PhD Student in Operations Research at Virginia Tech"
   location         : "Blacksburg, VA"
   employer         :
   pubmed           : 

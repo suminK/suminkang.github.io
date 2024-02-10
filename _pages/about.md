@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Sumin Kang's homepage.
+Hello! I am a Ph.D. student at Virginia Tech.
+
+## My Research
+---
