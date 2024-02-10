@@ -5,12 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-Teaching Assistant, Virginia Tech
+Graduate Teaching Assistant, Virginia Tech
 ======
-* ISE 3424, Spring 2021
+* ISE 3424: Discrete-Event Simulation, Spring 2021
   * Discrete-event simulation
 
-* ISE 5405, Fall 2023
-  * Optimization I
+* ISE 5405: Optimization I, Fall 2023
+  * Linear Programming
+
+Graduate Teaching Assistant, Korea Aerospace University
+======
+* A
