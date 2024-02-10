@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sumin Kang's Homepage"
+title: "Sumin Kang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
