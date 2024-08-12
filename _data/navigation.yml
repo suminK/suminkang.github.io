@@ -1,8 +1,8 @@
 # main links links
 main:
-  - title: "Resume"
+  - title: "Curriculum Vitae"
     # url: /cv/
-    url: /files/resume.pdf
+    url: https://drive.google.com/file/d/1xyHVhy0p6sA7C7Jz8HB-O5WkiF1vOrod/view?usp=sharing
 
   - title: "Publications"
     url: /publications/
