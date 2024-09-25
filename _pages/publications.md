@@ -21,9 +21,9 @@ author_profile: true
 
 ## Preprints / Working Papers (PhD)
 ---
-1. **S. Kang** and M. Bansal, "Distributionally Risk-Receptive and Robust Multistage Stochastic Integer Programs and Two-player Interdiction Games with(out) Decision-Dependent Uncertainty,"
+1. **S. Kang** and M. Bansal, "Distributionally Risk-Receptive and Robust Multistage Stochastic Integer Programs and Interdiction Models,"
 Mathematical Programming (Major Revision), 2024. [[link]](Preprint: https://optimization-online.org/?p=23320){:target="_blank"}
-2. **S. Kang** and M. Bansal, "Algorithms for two-stage stochastic integer programs with bi-parameterized recourse," Working Paper. Poster Available [[link]](https://drive.google.com/file/d/1xqRkg279gzRbDcjl-9HNUWcqexoLdY0G/view?usp=drive_link){:target="_blank"}.
+1. **S. Kang** and M. Bansal, "Algorithms for two-stage stochastic integer programs with bi-parameterized recourse," Working Paper. Poster Available [[link]](https://drive.google.com/file/d/1xqRkg279gzRbDcjl-9HNUWcqexoLdY0G/view?usp=drive_link){:target="_blank"}.
 
 ## Publications (Master/Undergrad)
 ---
