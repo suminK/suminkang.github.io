@@ -8,24 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Grado Department of Industrial and Systems Engineering (ISE)](https://www.ise.vt.edu){:target="_blank"} at Virginia Tech. I am currently in my fourth year of the Ph.D. program in Operations Research, working under the supervision of [Dr. Manish Bansal](https://www.ise.vt.edu/people/faculty/bansal.html){:target="_blank"}.
+I am a Ph.D. candidate in Operations Research at Virginia Tech, working under the guidance of [Dr. Manish Bansal](https://www.ise.vt.edu/people/faculty/bansal.html){:target="_blank"}. 
+My research focuses on addressing stochastic optimization problems with applications in areas such as network optimization, network vulnerability analysis, and attacker-defender games (e.g., interdiction models). I am particularly passionate about developing efficient algorithms for stochastic mixed-integer programs, distributionally robust mixed-integer programs, and distributionally risk-receptive (optimistic) optimization problems.
 
 ## Research Interests
-- Stochastic optimization
+- Stochastic programming
 - Mixed-integer programming
 - Distributionally robust optimization and distributionally risk-receptive optimization
 - Network optimization
 - Network interdiction problem (Attacker-defender network optimization)
 - Transportation and logistics optimization problems
 - Graph neural network
-- Decomposition methods
 
 ## Education
-- **Ph.D. in Industrial and Systems Engineering**, Virginia Tech, Jan 2021--May 2025 (Expected)
+- **Ph.D. in Industrial and Systems Engineering**, Virginia Tech, Jan 2021--July 2025 (Expected)
   - Concentration: **Operations Research.**
   - Dissertation (Proposal Passed): Algorithms for Distributionally Risk-Receptive and Robust Stochastic Integer Programs and Interdiction Problems
 - **M.S. in Logistics**, Korea Aerospace University, 2015--2017
-  - School of Air Transport, Transportation, and Logistics
+  - Department of Air Transport, Transportation, and Logistics
 - **M.S. in Logistics**, Korea Aerospace University, 2012--2015
   - School of Air Transport, Transportation, and Logistics
 
