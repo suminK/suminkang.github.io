@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+keywords: "About Sumin Kang, PhD Candidate at Virginia Tech, Operations Research"
 ---
 
 I am a Ph.D. candidate in Operations Research at Virginia Tech, working under the guidance of [Dr. Manish Bansal](https://www.ise.vt.edu/people/faculty/bansal.html){:target="_blank"}. 
