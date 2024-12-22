@@ -4,21 +4,13 @@ title: "Teaching & Service"
 permalink: /teaching-service/
 author_profile: true
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KH47P88FLS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KH47P88FLS');
-</script>
 
 {% include base_path %}
 
 ## Instructor
+---
 - **ISE 3424 Discrete-Event Simulation**, Virginia Tech, Summer 2024
-  - Taught Optimization via simulation, Simio, @Risk, etc.
+  - Topics: Input Modeling, Risk Analysis, Simulation Analysis Software, and Probability Theory.
 
 ## Teaching Assistant
 ---
@@ -26,10 +18,9 @@ author_profile: true
 - **ISE 5034 Mathematical Probability and Statistics**, Virginia Tech, Fall 2024
 - **ISE 2404 Deterministic Operations Research I**, Virginia Tech, Spring 2024
 - **ISE 5405 Optimization I**, Virginia Tech, Fall 2023
-  - Graduate course for linear and network optimization. Provided AMPL and Gurobi tutorial sessions.
+  - Topics: Linear programming, Polyhedral theory, Network optimization, AMPL/Gurobi tutorial sessions.
 - **ISE 3424 Discrete-Event Simulation**, Virginia Tech, Spring 2021
 - **AT 4352 Analysis of Logistics System**, Korea Aerospace University, 2015 & 2016
-  - Provided Discrete-Event Simulation tutorial sessions.
 - **AT 3202 Operations Research I**, Korea Aerospace University, 2015 & 2016
 
 <!-- ## Teaching Assistant at Virginia Tech
