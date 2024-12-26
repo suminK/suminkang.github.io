@@ -11,9 +11,11 @@ author_profile: true
 ---
 - **ISE 3424 Discrete-Event Simulation**, Virginia Tech, Summer 2024
   - Topics: Input Modeling, Risk Analysis, Simulation Analysis Software, and Probability Theory.
+  - Rated 5.6/6.0 for teaching effectiveness, strong engagement, and clarity.
 
 ## Teaching Assistant
 ---
+*Provided instruction and guidance in linear programming (graduate/undergraduate) and undergraduate simulation analysis. Received outstanding TA evaluations, described as "competent, courteous, responsible, and always on time."*
 - **ISE 5104 Operations Research**, Virginia Tech, Fall 2024
 - **ISE 5034 Mathematical Probability and Statistics**, Virginia Tech, Fall 2024
 - **ISE 2404 Deterministic Operations Research I**, Virginia Tech, Spring 2024
@@ -42,4 +44,4 @@ author_profile: true
 - Session Chair: INFORMS Annual Meeting 2022, INFORMS Optimization Society Conference 2022, INFORMS Conference on Security 2022. 
 - Reviewer: Networks, Optimization Letter, Journal of Optimization Theory and Applications.
 - Member of INFORMS, SIAM, INFORMS Optimization Society, INFORMS Computing Society.
-- Affiliated Student at the Sanghani Center for Artificial Intelligence \& Data Analytics, Virginia Tech
+- Affiliated Student at the Sanghani Center for Artificial Intelligence & Data Analytics, Virginia Tech
