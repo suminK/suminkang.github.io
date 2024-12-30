@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sumin's Homepage"
+title                    : "Sumin Kang | Operations Research | Virginia Tech"
 title_separator          : "-"
 name                     : &name "Sumin Kang"
-description              : &description "Ph.D. Student in Industrial and Systems Engineering (Operations Research concentration) at Virginia Tech"
+description              : &description "Ph.D. Candidate in Industrial and Systems Engineering (Operations Research concentration) at Virginia Tech"
 url                      : https://suminK.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "suminK/suminK.github.io"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
