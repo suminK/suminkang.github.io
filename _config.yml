@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sumin Kang | Operations Research | Virginia Tech"
+title                    : "Sumin Kang | Virginia Tech"
 title_separator          : "-"
 name                     : &name "Sumin Kang"
 description              : &description "Ph.D. Candidate in Industrial and Systems Engineering (Operations Research concentration) at Virginia Tech"

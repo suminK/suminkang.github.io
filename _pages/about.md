@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: "Homepage"
+title: "About Me"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-keywords: "About Sumin Kang, PhD Candidate at Virginia Tech, Operations Research"
+keywords: "About Sumin Kang | PhD Candidate at Virginia Tech | Operations Research"
 ---
-
-I am a Ph.D. candidate in Operations Research at Virginia Tech, working under the guidance of [Dr. Manish Bansal](https://www.ise.vt.edu/people/faculty/bansal.html){:target="_blank"}. 
-My research focuses on addressing stochastic optimization problems with applications in areas such as network optimization, network vulnerability analysis, and attacker-defender games (e.g., interdiction models). I am particularly passionate about developing efficient algorithms for **stochastic mixed-integer programs, distributionally robust mixed-integer programs, and distributionally risk-receptive (optimistic) optimization problems.**
+Hello, I am a **Ph.D. candidate in Operations Research at Virginia Tech**, working under the guidance of [Dr. Manish Bansal](https://www.ise.vt.edu/people/faculty/bansal.html){:target="_blank"}. 
+My research focuses on addressing stochastic optimization problems with applications in areas such as network optimization, network vulnerability analysis, and attacker-defender games (e.g., interdiction models). I am particularly passionate about developing efficient algorithms for challenging optimization problems in **stochastic mixed-integer programming, distributionally robust optimization, and distributionally risk-receptive (optimistic) optimization problems.**
 
 ## Research Interests
 - Stochastic programming
