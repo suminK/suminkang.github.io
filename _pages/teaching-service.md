@@ -15,7 +15,7 @@ author_profile: true
 
 ## Teaching Assistant
 ---
-*Provided instruction and guidance in linear programming (graduate/undergraduate) and undergraduate simulation analysis. Received outstanding TA evaluations, described as "competent, courteous, responsible, and always on time."*
+*Provided instruction and guidance in linear programming (graduate/undergraduate) and undergraduate simulation analysis. Received outstanding TA evaluations, described as "competent, courteous, and responsible."*
 - **ISE 5104 Operations Research**, Virginia Tech, Fall 2024
 - **ISE 5034 Mathematical Probability and Statistics**, Virginia Tech, Fall 2024
 - **ISE 2404 Deterministic Operations Research I**, Virginia Tech, Spring 2024
