@@ -17,10 +17,11 @@ author_profile: true
 
 ## PhD Research
 ---
-1. **S. Kang** and M. Bansal, "Distributionally Risk-Receptive and Robust Multistage Stochastic Integer Programs and Interdiction Models,"
+1. **S. Kang** and M. Bansal, "Distributionally risk-receptive and robust multistage stochastic integer programs and interdiction models,"
 Mathematical Programming (Forthcoming), 2024. [[Preprint]](https://optimization-online.org/?p=23320){:target="_blank"}
 2. **S. Kang** and M. Bansal, "Distributionally risk-receptive and risk-averse network interdiction problems with general ambiguity set," Networks 81(1), 3-22, 2022. [[link]](https://doi.org/10.1002/net.22114){:target="_blank"}
-3. **S. Kang** and M. Bansal, "Algorithms for two-stage stochastic integer programs with bi-parameterized recourse," Working Paper. [[Poster (2024)]](https://drive.google.com/file/d/1xqRkg279gzRbDcjl-9HNUWcqexoLdY0G/view?usp=drive_link){:target="_blank"}.
+3. **S. Kang** and M. Bansal, "Bi-parameterized two-stage stochastic min-max and min-min mixed integer programs," Submitted. [[Preprint]](https://arxiv.org/abs/2501.01081
+){:target="_blank"}.
 
 <!-- ## Preprints / Working Papers (PhD) -->
 <!-- --- -->
